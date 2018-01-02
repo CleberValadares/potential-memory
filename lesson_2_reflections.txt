@@ -1,4 +1,4 @@
-What happens when you initialize a repository? Why do you need to do it?
+$#What happens when you initialize a repository? Why do you need to do it?
 
 you only initialize the repo without any updated and commit
 one new path is created but is hidden [.git] 
@@ -20,8 +20,19 @@ Untracked files:
 	lesson_2_reflections.txt
 
 
-How is the staging area different from the working directory and the repository?
+
+
+$#How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+
+staging area its a kind of waiting hall... 
+then we can add files there to commit later 
+
+	
+
+	
+
+
 
 How can you use the staging area to make sure you have one commit per logical
 change?
