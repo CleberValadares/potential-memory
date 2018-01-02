@@ -1,0 +1,48 @@
+
+## How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+The typo was with a signal + (spacr), it´s really useful command, diff, merge, commit, all of them we are going to learn in this course. 
+
+
+
+## How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+I can see all history changes, and question the staff why you change A per B, or X per XX, then you understand the bussiness, new plans, new perspectives from this history. 
+See how I learn in the entire code. :) 
+
+
+
+## What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Commits are good to keep with sense your code, if you commit and save for every small line, could be hard do understand after some lines. 
+The cons if you forget to commit after a big change. 
+Automatically could be more simple and easy but can´t be as well a waste of time and resources, if you don´t do a real change this would be a not significant save. 
+
+
+
+## Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Because the Git has a behaviour like a repository(you can add 1 or more files) google docs save one file by one. 
+
+
+
+## How can you use the commands git log and git diff to view the history of files?
+
+it´s really useful commands
+log:  you can find all commits and see a brief description
+diff: can be use to check what they really change, where, when, great 
+
+
+
+## How might using version control make you more confident to make changes that could break something?
+
+to be honest i am not so confident with the control version, for now I know only the basic, with my good experience in Linux and terminal until now my experience with the github commmands it´s ok, I mean I know and can understand the commands, now I need to know how to use. 
+
+
+
+## Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to do some easy stuff and start learn python and than put / commit my codes in github.
+
+
+
