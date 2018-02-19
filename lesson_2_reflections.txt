@@ -1,3 +1,4 @@
+
 ####### What happens when you initialize a repository? Why do you need to do it?
 
 you only initialize the repo without any updated and commit
@@ -56,8 +57,10 @@ it´s awesome, we can built like a tree and put eveything together after test an
 
 
 
-What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+#########What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+it´s a great way to combine codes and dont lose any improvements in your code
+
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
