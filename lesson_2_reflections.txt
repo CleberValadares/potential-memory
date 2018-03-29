@@ -62,5 +62,10 @@ it´s awesome, we can built like a tree and put eveything together after test an
 it´s a great way to combine codes and dont lose any improvements in your code
 
 
-What are the pros and cons of Git's automatic merging vs. always doing merges
-manually?
+#########What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+
+pros - you can really know where are the possible problems and conflicts 
+cons - may i can lost youself or your team and should go back one or more steps to solve 
+
+
